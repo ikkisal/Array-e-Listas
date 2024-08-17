@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\bin\Debug\net8.0\Array e Listas.exe
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\bin\Debug\net8.0\Array e Listas.deps.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\bin\Debug\net8.0\Array e Listas.runtimeconfig.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\bin\Debug\net8.0\Array e Listas.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\bin\Debug\net8.0\Array e Listas.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.sourcelink.json
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\refint\Array e Listas.dll
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.pdb
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\Array e Listas.genruntimeconfig.cache
+C:\Users\PC\Desktop\Programação\Projetos C#\Array e Listas\obj\Debug\net8.0\ref\Array e Listas.dll
